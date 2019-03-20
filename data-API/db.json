@@ -59,39 +59,60 @@
       "id": 2
     },
     {
-      "name": "Solid Pleated Hoodie",
-      "desc": "Solid Plate Green Hoodie",
-      "price": 500000,
-      "src": "https://res.cloudinary.com/teepublic/image/private/s--umdyubDQ--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_423/c_crop,g_north_west,h_626,w_470,x_-28,y_-87/g_north_west,u_upload:v1464728912:production:blanks:rew9odbb1ap0exlbbgo8,x_-423,y_-412/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1498434181/production/designs/1693333_1.jpg",
-      "id": 3
+      "name": "Adidas  Shoes",
+      "desc": "Yung 1",
+      "price": 2300000,
+      "src": "https://static.shop.adidas.co.id/media/catalog/product/cache/2/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/B/D/BD7655_SL_eComm.jpg",
+      "id": 12
     },
     {
-      "name": "Satin Hoodie",
-      "desc": "Satin Al Moda Ekler Hoodie",
-      "price": 1500000,
-      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
-      "id": 4
+      "name": "Adidas  Shoes",
+      "desc": "Pureboost Shoes",
+      "price": 2200000,
+      "src": "https://static.shop.adidas.co.id/media/catalog/product/cache/2/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/B/3/B37777_SL_eCom.jpg",
+      "id": 13
     },
     {
-      "name": "Shirt O Neck",
-      "desc": "T-Shirt O Neck",
-      "price": 345000,
-      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
-      "id": 5
+      "name": "Nike  Shoes",
+      "desc": "Nike x A-COLD-WALL* Air Force 1 '07",
+      "price": 2779000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/kmweapifecqh2mcpkas2/a-cold-wall-air-force-1-07-shoe-Lt7gD1.jpg",
+      "id": 15
     },
     {
-      "name": "T-Shirt ",
-      "desc": "T-Shirt Ordinary",
-      "price": 315000,
-      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
-      "id": 6
+      "name": "Nike  Shoes",
+      "desc": "Nike Victory Elite Trainer",
+      "price": 1199000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/o55kqarvfpaeazrencpe/victory-elite-trainer-training-shoe-QWnKCq.jpg",
+      "id": 16
     },
     {
-      "name": "T-Shirt-V Neck",
-      "desc": "T-Shirt Ordinary V Neck",
-      "price": 145000,
-      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
-      "id": 7
+      "name": "Alisan Shirt",
+      "desc": "SALUR KOMBINASI 5467 / PENDEK",
+      "price": 300000,
+      "src": "http://alisan.co.id/public_files/images/5467/5467-9.jpg",
+      "id": 17
+    },
+    {
+      "name": "Alisan Shirt",
+      "desc": "KOTAK 0236 / PENDEK",
+      "price": 300000,
+      "src": "http://alisan.co.id/public_files/images/0236/0236-1.jpg",
+      "id": 18
+    },
+    {
+      "name": "Levis Denim",
+      "desc": "Apocalypso Denim",
+      "price": 1499900,
+      "src": "https://levi.co.id/wp-content/uploads/2019/01/LEJ-M-B-72777-0001.jpg",
+      "id": 19
+    },
+    {
+      "name": "Levis Knit",
+      "desc": "Heather Grey",
+      "price": 1299900,
+      "src": "https://levi.co.id/wp-content/uploads/2019/01/LEJ-M-T-72817-0000.jpg",
+      "id": 20
     }
   ],
   "carts": [
@@ -104,16 +125,6 @@
       "price": 150000,
       "src": "https://res.cloudinary.com/teepublic/image/private/s--umdyubDQ--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_423/c_crop,g_north_west,h_626,w_470,x_-28,y_-87/g_north_west,u_upload:v1464728912:production:blanks:rew9odbb1ap0exlbbgo8,x_-423,y_-412/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1498434181/production/designs/1693333_1.jpg",
       "id": 9
-    },
-    {
-      "productId": 6,
-      "username": "user2",
-      "name": "T-Shirt ",
-      "qty": 8,
-      "desc": "T-Shirt Ordinary",
-      "price": 315000,
-      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
-      "id": 10
     },
     {
       "productId": 1,
@@ -136,44 +147,84 @@
       "id": 12
     },
     {
-      "productId": 5,
-      "username": "user2",
-      "name": "Shirt O Neck",
-      "qty": 5,
-      "desc": "T-Shirt O Neck",
-      "price": 345000,
-      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
-      "id": 13
-    },
-    {
-      "productId": 6,
-      "username": "donny",
-      "name": "T-Shirt ",
-      "qty": 1,
-      "desc": "T-Shirt Ordinary",
-      "price": 315000,
-      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
-      "id": 14
-    },
-    {
       "productId": 2,
       "username": "tes",
       "name": "S T-Shirt",
-      "qty": 100,
+      "qty": 2,
       "desc": "T-Shirt Smile",
       "price": 150000,
       "src": "https://res.cloudinary.com/teepublic/image/private/s--umdyubDQ--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_423/c_crop,g_north_west,h_626,w_470,x_-28,y_-87/g_north_west,u_upload:v1464728912:production:blanks:rew9odbb1ap0exlbbgo8,x_-423,y_-412/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1498434181/production/designs/1693333_1.jpg",
       "id": 15
     },
     {
-      "productId": 3,
+      "productId": 1,
       "username": "tes",
-      "name": "Solid Pleated Hoodie",
-      "qty": 22,
-      "desc": "Solid Plate Green Hoodie",
-      "price": 500000,
-      "src": "https://res.cloudinary.com/teepublic/image/private/s--umdyubDQ--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_423/c_crop,g_north_west,h_626,w_470,x_-28,y_-87/g_north_west,u_upload:v1464728912:production:blanks:rew9odbb1ap0exlbbgo8,x_-423,y_-412/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1498434181/production/designs/1693333_1.jpg",
+      "name": "T-Shirt V-Neck",
+      "qty": 2,
+      "desc": "V neck shirt",
+      "price": 57000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
       "id": 16
+    },
+    {
+      "productId": 12,
+      "username": "tes",
+      "name": "Adidas  Shoes",
+      "qty": 1,
+      "desc": "Yung 1",
+      "price": 2300000,
+      "src": "https://static.shop.adidas.co.id/media/catalog/product/cache/2/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/B/D/BD7655_SL_eComm.jpg",
+      "id": 17
+    },
+    {
+      "productId": 15,
+      "username": "tes",
+      "name": "Nike  Shoes",
+      "qty": 1,
+      "desc": "Nike x A-COLD-WALL* Air Force 1 '07",
+      "price": 2779000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/kmweapifecqh2mcpkas2/a-cold-wall-air-force-1-07-shoe-Lt7gD1.jpg",
+      "id": 18
+    },
+    {
+      "productId": 17,
+      "username": "tes",
+      "name": "Alisan Shirt",
+      "qty": 2,
+      "desc": "SALUR KOMBINASI 5467 / PENDEK",
+      "price": 300000,
+      "src": "http://alisan.co.id/public_files/images/5467/5467-9.jpg",
+      "id": 19
+    },
+    {
+      "productId": 18,
+      "username": "tes",
+      "name": "Alisan Shirt",
+      "qty": 2,
+      "desc": "KOTAK 0236 / PENDEK",
+      "price": 300000,
+      "src": "http://alisan.co.id/public_files/images/0236/0236-1.jpg",
+      "id": 20
+    },
+    {
+      "productId": 19,
+      "username": "tes",
+      "name": "Levis Denim",
+      "qty": 2,
+      "desc": "Apocalypso Denim",
+      "price": 1499900,
+      "src": "https://levi.co.id/wp-content/uploads/2019/01/LEJ-M-B-72777-0001.jpg",
+      "id": 21
+    },
+    {
+      "productId": 20,
+      "username": "tes",
+      "name": "Levis Knit",
+      "qty": 2,
+      "desc": "Heather Grey",
+      "price": 1299900,
+      "src": "https://levi.co.id/wp-content/uploads/2019/01/LEJ-M-T-72817-0000.jpg",
+      "id": 22
     }
   ]
 }
