@@ -1,0 +1,179 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "tes",
+      "email": "tes@gmail.com",
+      "password": "tes"
+    },
+    {
+      "username": "user2",
+      "email": "user2@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "username": "donny",
+      "email": "donny.pra@gmail.com",
+      "password": "donnypass",
+      "id": 3
+    },
+    {
+      "username": "donny",
+      "email": "donny@ymail.com",
+      "password": "1234567",
+      "id": 4
+    },
+    {
+      "username": "donny3",
+      "email": "rtyui",
+      "password": "ertyu",
+      "id": 5
+    },
+    {
+      "username": "user3",
+      "email": "user@user3.com",
+      "password": "1234567",
+      "id": 6
+    },
+    {
+      "username": "donny5",
+      "email": "dfghjkl",
+      "password": "ertyuio",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "name": "T-Shirt V-Neck",
+      "desc": "V neck shirt",
+      "price": 57000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 1
+    },
+    {
+      "name": "S T-Shirt",
+      "desc": "T-Shirt Smile",
+      "price": 150000,
+      "src": "https://res.cloudinary.com/teepublic/image/private/s--umdyubDQ--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_423/c_crop,g_north_west,h_626,w_470,x_-28,y_-87/g_north_west,u_upload:v1464728912:production:blanks:rew9odbb1ap0exlbbgo8,x_-423,y_-412/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1498434181/production/designs/1693333_1.jpg",
+      "id": 2
+    },
+    {
+      "name": "Solid Pleated Hoodie",
+      "desc": "Solid Plate Green Hoodie",
+      "price": 500000,
+      "src": "https://res.cloudinary.com/teepublic/image/private/s--umdyubDQ--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_423/c_crop,g_north_west,h_626,w_470,x_-28,y_-87/g_north_west,u_upload:v1464728912:production:blanks:rew9odbb1ap0exlbbgo8,x_-423,y_-412/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1498434181/production/designs/1693333_1.jpg",
+      "id": 3
+    },
+    {
+      "name": "Satin Hoodie",
+      "desc": "Satin Al Moda Ekler Hoodie",
+      "price": 1500000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 4
+    },
+    {
+      "name": "Shirt O Neck",
+      "desc": "T-Shirt O Neck",
+      "price": 345000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 5
+    },
+    {
+      "name": "T-Shirt ",
+      "desc": "T-Shirt Ordinary",
+      "price": 315000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 6
+    },
+    {
+      "name": "T-Shirt-V Neck",
+      "desc": "T-Shirt Ordinary V Neck",
+      "price": 145000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 7
+    }
+  ],
+  "carts": [
+    {
+      "productId": 2,
+      "username": "user2",
+      "name": "S T-Shirt",
+      "qty": 5,
+      "desc": "T-Shirt Smile",
+      "price": 150000,
+      "src": "https://res.cloudinary.com/teepublic/image/private/s--umdyubDQ--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_423/c_crop,g_north_west,h_626,w_470,x_-28,y_-87/g_north_west,u_upload:v1464728912:production:blanks:rew9odbb1ap0exlbbgo8,x_-423,y_-412/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1498434181/production/designs/1693333_1.jpg",
+      "id": 9
+    },
+    {
+      "productId": 6,
+      "username": "user2",
+      "name": "T-Shirt ",
+      "qty": 8,
+      "desc": "T-Shirt Ordinary",
+      "price": 315000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 10
+    },
+    {
+      "productId": 1,
+      "username": "",
+      "name": "T-Shirt V-Neck",
+      "qty": null,
+      "desc": "V neck shirt",
+      "price": 57000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 11
+    },
+    {
+      "productId": 1,
+      "username": "donny",
+      "name": "T-Shirt V-Neck",
+      "qty": 2,
+      "desc": "V neck shirt",
+      "price": 57000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 12
+    },
+    {
+      "productId": 5,
+      "username": "user2",
+      "name": "Shirt O Neck",
+      "qty": 5,
+      "desc": "T-Shirt O Neck",
+      "price": 345000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 13
+    },
+    {
+      "productId": 6,
+      "username": "donny",
+      "name": "T-Shirt ",
+      "qty": 1,
+      "desc": "T-Shirt Ordinary",
+      "price": 315000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 14
+    },
+    {
+      "productId": 2,
+      "username": "tes",
+      "name": "S T-Shirt",
+      "qty": 100,
+      "desc": "T-Shirt Smile",
+      "price": 150000,
+      "src": "https://res.cloudinary.com/teepublic/image/private/s--umdyubDQ--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_423/c_crop,g_north_west,h_626,w_470,x_-28,y_-87/g_north_west,u_upload:v1464728912:production:blanks:rew9odbb1ap0exlbbgo8,x_-423,y_-412/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1498434181/production/designs/1693333_1.jpg",
+      "id": 15
+    },
+    {
+      "productId": 3,
+      "username": "tes",
+      "name": "Solid Pleated Hoodie",
+      "qty": 22,
+      "desc": "Solid Plate Green Hoodie",
+      "price": 500000,
+      "src": "https://res.cloudinary.com/teepublic/image/private/s--umdyubDQ--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_423/c_crop,g_north_west,h_626,w_470,x_-28,y_-87/g_north_west,u_upload:v1464728912:production:blanks:rew9odbb1ap0exlbbgo8,x_-423,y_-412/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1498434181/production/designs/1693333_1.jpg",
+      "id": 16
+    }
+  ]
+}
